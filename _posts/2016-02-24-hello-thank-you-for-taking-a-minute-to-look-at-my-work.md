@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-24T04:01:13.043Z'
-dateModified: '2016-02-24T04:00:36.049Z'
+datePublished: '2016-02-24T04:03:37.759Z'
+dateModified: '2016-02-24T04:03:01.713Z'
 title: Hello. Thank you for taking a minute to look at my work
 author: []
 authors: []
